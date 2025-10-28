@@ -334,7 +334,7 @@ Found a bug? Have a suggestion?
 
 - Open an issue on GitHub (for technical users)
 - Email us at pixoraapp@proton.me
-- Use in-app feedback form
+- Use the in-app feedback form
 
 ### FAQ
 
@@ -354,7 +354,7 @@ A: We don't scan your photos for AI training, show you ads, or track your behavi
 A: Yes! We use end-to-end encryption for cloud backups, secure storage on your device, and never access your photos without permission.
 
 **Q: Can I migrate from Google Photos?**
-A: Yes! Simply download your photos from Google Photos and they'll automatically appear in Pixora.
+A: Yes! Simply download your photos from Google Photos, and they'll automatically appear in Pixora.
 
 ---
 
@@ -381,10 +381,11 @@ Special thanks to:
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="screenshots/gallery.png" alt="Gallery View" width="200"/>
-  <img src="screenshots/albums.png" alt="Albums" width="200"/>
-  <img src="screenshots/backup.png" alt="Backup" width="200"/>
-  <img src="screenshots/settings.png" alt="Settings" width="200"/>
+  <img src="screenshots/gallery.jpg" alt="Gallery View" width="200"/>
+  <img src="screenshots/album.jpg" alt="Albums" width="200"/>
+  <img src="screenshots/backup.jpg" alt="Backup" width="200"/>
+  <img src="screenshots/settings.jpg" alt="Settings" width="200"/>
+    <img src="screenshots/search.jpg" alt="Settings" width="200"/>
 </div>
 
 ---

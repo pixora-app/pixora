@@ -7,6 +7,7 @@
 
 _The smart alternative to Google Photos that respects your privacy_
 
+# Note: Login for Backup 
 [![Download APK](https://img.shields.io/badge/Download-APK-green.svg)](https://github.com/yourusername/pixora/releases)
 [![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F64-success.svg)](https://www.virustotal.com/gui/file/57ca67e266442320232ce7be03919319e8acbf2024fcb6f594baf7b98dcbeae3)
 [![License](https://img.shields.io/badge/License-Private-red.svg)]()
@@ -90,7 +91,7 @@ Your photos are your memories. Tl Googluldn't be used to train AI, show you ads,
 
 | Platform       | Status         | Download                                                                                                                                      |
 | -------------- | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🤖 **Android** | Comming soon   | [Google Play](https://play.google.com/store) • [APKPure](https://apkpure.com) • [Direct APK](https://github.com/yourusername/pixora/releases) |
+| 🤖 **Android** | Comming soon   | [Google Play](https://play.google.com/store) • [APKPure](https://apkpure.com) • [Direct APK](https://github.com/pixora-app/pixora/releases/tag/v1.0.0-aurora) |
 | 🍎 **iOS**     | 🔜 Coming Soon | App Store (In Development)                                                                                                                    |
 
 </div>
@@ -394,7 +395,7 @@ Special thanks to:
 
 ### Ready to Take Control of Your Photos?
 
-[![Download Now](https://img.shields.io/badge/Download-Now-success.svg?style=for-the-badge)](https://github.com/yourusername/pixora/releases)
+[![Download Now](https://img.shields.io/badge/Download-Now-success.svg?style=for-the-badge)](https://github.com/pixora-app/pixora/releases/download/v1.0.0-aurora/com.pixoracloud.app.apk)
 
 **Your Photos. Your Privacy. Your Choice.**
 

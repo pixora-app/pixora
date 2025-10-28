@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="website/logo.jpg" alt="Pixora Logo" width="200"/>
+  <img src="logo.jpg" alt="Pixora Logo" width="200"/>
 
 # Pixora
 
